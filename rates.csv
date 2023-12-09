@@ -8,14 +8,34 @@ BTC,Bitcoin,2023,134829.16,red
 BTC,Bitcoin,2024,259981.38,red
 BTC,Bitcoin,2025,500824.31,red
 BTC,Bitcoin,2026,967007.42,red
-BTC,Bitcoin,2027,1868421.07,red
-USD,US Dollar,2018,0.48,blue
-USD,US Dollar,2019,0.42,blue
-USD,US Dollar,2020,0.46,blue
-USD,US Dollar,2021,0.50,blue
-USD,US Dollar,2022,0.52,blue
-USD,US Dollar,2023,0.54,red
-USD,US Dollar,2024,0.50,red
-USD,US Dollar,2025,0.52,red
-USD,US Dollar,2026,0.58,red
-USD,US Dollar,2027,0.54,red
+BTC,Bitcoin,2027,1,868421.07,red
+USD,US Dollar,2018,0.71,blue
+USD,US Dollar,2019,0.67,blue
+USD,US Dollar,2020,0.67,blue
+USD,US Dollar,2021,0.72,blue
+USD,US Dollar,2022,0.68,blue
+USD,US Dollar,2023,0.6732,red
+USD,US Dollar,2024,0.6665,red
+USD,US Dollar,2025,0.6598,red
+USD,US Dollar,2026,0.6532,red
+USD,US Dollar,2027,0.6467,red
+CHF,Swiss Franc,2018,0.69,blue
+CHF,Swiss Franc,2019,0.66,blue
+CHF,Swiss Franc,2020,0.65,blue
+CHF,Swiss Franc,2021,0.64,blue
+CHF,Swiss Franc,2022,0.62,blue
+CHF,Swiss Franc,2023,0.6044,red
+CHF,Swiss Franc,2024,0.5885,red
+CHF,Swiss Franc,2025,0.5731,red
+CHF,Swiss Franc,2026,0.5581,red
+CHF,Swiss Franc,2027,0.5436,red
+EUR,Euro,2018,0.59,blue
+EUR,Euro,2019,0.59,blue
+EUR,Euro,2020,0.6,blue
+EUR,Euro,2021,0.59,blue
+EUR,Euro,2022,0.6,blue
+EUR,Euro,2023,0.6011,red
+EUR,Euro,2024,0.6022,red
+EUR,Euro,2025,0.6033,red
+EUR,Euro,2026,0.6045,red
+EUR,Euro,2027,0.6056,red
