@@ -1,4 +1,4 @@
-Dates,Games,Bets
+Dates,Games,Bets,Bets
 Friday15 Dec06:45, Football · Europe · UEFA Conference LeagueLegia Warszawa — AZ AlkmaarAsian Handicap 0 : 2½, {'casapariurilor': '12.39', 'forbet': '3.02'}
 Monday18 Dec02:30, Darts · World · PDC World ChampionshipJim Williams — Norman MadhooO/U 3.5, {'10bet': '5.59', 'nubet': '1.23'}
 Monday18 Dec07:00, American Football · USA · USA NFLTennessee Titans — Houston TexansO/U (Away) 23.5, {'bet365': '3.08', 'novibet': '1.43'}
